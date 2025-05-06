@@ -1,4 +1,4 @@
-> ## Hi I'm _Moch Galih Sulistio Pratama_
+> ## **Hi I'm Moch Galih Sulistio Pratama**
 
 I'm currently working as an online motorcycle taxi driver in Indonesia — but beyond the helmet and roads, I’m deeply passionate about **web technologies**, — especially in both **Frontend** and **Backend** development.
 
