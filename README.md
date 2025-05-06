@@ -8,7 +8,8 @@ I'm currently working as an online motorcycle taxi driver in Indonesia — but b
 
 
 #### Reach Me On —
-![https://www.linkedin.com/in/mochamad-galih-sulistio-pratama/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://www.linkedin.com/in/mochamad-galih-sulistio-pratama/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)
 
 <img src="https://raw.githubusercontent.com/MchmdGalih/MchmdGalih/output/snake.svg" alt="Snake animation" />
 
